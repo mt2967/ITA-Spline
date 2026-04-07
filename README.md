@@ -15,9 +15,6 @@ It connects N points in 3D space using 2(N-1) circular arcs with C1 continuity.
 - [日本語レポート PDF (rev3)](docs/ITA_Spline_JP_rev3.pdf)
 
 ## Source Code
-- `src/ita_spline.cpp`
-- `src/ita_spline.h`
-- Examples in `src/examples/`
 
 ## Author
 Kazuya Mori  
