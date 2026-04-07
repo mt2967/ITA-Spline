@@ -12,7 +12,7 @@ It connects N points in 3D space using 2(N-1) circular arcs with C1 continuity.
 - C++ implementation included
 
 ## Documents
-- [日本語レポート PDF (rev3)](docs/ITA_Spline_JP_rev3.pdf)
+- ITA_Spline_JP_rev3.pdf
 
 ## Source Code
 
